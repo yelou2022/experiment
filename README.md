@@ -5,9 +5,9 @@ Due to the large size of the raw data from H. sapiens and Sa. cerevisiae species
 Therefore, we provide the official download link for the raw data, which can be accessed on the official website for individual download.
 
 # H. sapiens
-address: https://string-db.org/cgi/download?sessionId=bw6HbmIqSIna&species_text=Homo+sapiens
-interaction data: 9606.protein.links.v11.5.txt
-sequence file: 9606.protein.sequences.v11.5.fa
+address: https://string-db.org/cgi/download?sessionId=bw6HbmIqSIna&species_text=Homo+sapiens \n
+interaction data: 9606.protein.links.v11.5.txt \n
+sequence file: 9606.protein.sequences.v11.5.fa \n
 
 # Sa. cerevisiae
 address: https://string-db.org/cgi/download?sessionId=bw6HbmIqSIna&species_text=Saccharomyces+cerevisiae
